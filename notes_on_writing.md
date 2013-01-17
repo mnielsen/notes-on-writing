@@ -12,7 +12,13 @@
 
 **Does the sentence start as late as possible?**
 
-**Try generating ten opening sentences**
+**Generate ten or more opening sentences:** Just start brainstorming.
+  Don't worry about whether they are good or not.  Instead, try to
+  connect with many different ways of opening, and of thinking about
+  the subject at hand.  Then, once you've got a stock of sentences,
+  start to think analytically about the sentences.  What makes each
+  one good or bad?  Can you improve any of the sentences?  Do they
+  suggest more ideas for sentences?
 
 ### Opening sentence: "How Buildings Learn" (Brand)
 

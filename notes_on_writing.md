@@ -43,6 +43,17 @@ language, or toned up the crass language, the sentence would not be
 nearly as funny.  Furthermore, while the observation would remain
 true, it would be a less interesting truth.
 
+### Opening sentence: "The Selfish Gene" (Dawkins)
+
+> Intelligent life on a planet comes of age when it first works out
+> the reason for its own existence
+
+It's a provocative assertion.  Possibly wrong, certainly contentious.
+But interesting, in a let's-stay-up-talking-to-3am kind of way, a
+kicker of a conversation starter.  The phrase "on a planet" could
+arguably be omitted.  It might be better to say something like: "An
+intelligent species comes of age when...".
+
 ### Opening sentence: "What Technology Wants" (Kelly)
 
 > For most of my life I owned very little.

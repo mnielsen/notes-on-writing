@@ -47,6 +47,16 @@ true, it would be a less interesting truth.
 
 > For most of my life I owned very little.
 
+### Opening sentence: "A Brief History of Time" (Hawking)
+
+> A well-known scientist (some say it was Bertrand Russell) once gave
+> a public lecture on astronomy.
+
+This is scene-setting, an introduction to a story.  It has the
+advantage that the tone is light.  The "some say it was Bertrand
+Russell" even makes the point that it is determinedly light and
+informal!
+
 ### Opening sentence: "The Language Instinct" (Pinker)
 
 > As you are reading these words, you are taking part in one of the

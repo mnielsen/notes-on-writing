@@ -14,16 +14,17 @@
 
 **When in trouble, quickly brainstorm ten or more opening sentences:**
   On occasion, one comes to a piece of writing with the perfect
-  opening sentence.  Take the good fortune and run!  But when one does
-  not have that sentence, things become more difficult.  It's tempting
-  to compromise, and to accept a mediocre opening sentence.  The
-  problem is that this is the reader's introduction to your writing.
-  A mediocre opening telegraphs to the reader that you're not going to
-  make good use of their time.  It's also a turn-off for you as an
-  author, making you less excited about your project.  By contrast, a
-  good opening sentence establishes trust with the reader, and helps
-  excite you, as an author.
+  opening sentence.  Take the good fortune and run!  
   
+  When one does not have that sentence, things become difficult.  It's
+  tempting to compromise, and to accept a mediocre opening sentence.
+  This is a bad mistake.  The opening sentence is the reader's
+  introduction to your writing.  A mediocre opening is statement that
+  you're not going to make good use of their time.  It's also a
+  turn-off for you as an author, making you less excited about your
+  project.  By contrast, a good opening sentence establishes trust
+  with the reader, and helps excite you about your own work.
+    
   So what to do when you're having trouble finding a good opening
   sentence?
   
@@ -41,6 +42,11 @@
   relationship with the reader, and with your own piece of work.  On
   both counts you want things to start off on the right foot.
   
+  Many of these comments apply also to the title, subtitle, and to the
+  opening paragraph.  Note that a great opening paragraph can, to a
+  considerable extent, compensate for a less-than-great opening
+  sentence.  Of course, it's better to have both.
+    
 ### Opening sentence: "How Buildings Learn" (Brand)
 
 > Year after year, the cultural elite of San Francisco is treated to

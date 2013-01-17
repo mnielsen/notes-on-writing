@@ -12,21 +12,35 @@
 
 **Does the sentence start as late as possible?**
 
-**Generate ten or more opening sentences:** On occasion, one has the
-  perfect opening sentence.  When that's the case, great --- take the
-  good fortune and run.  But when not, things become more difficult.
-  It's tempting to compromise, and to accept a mediocrate opening
-  sentence.  The problem is that this is the reader's introduction to
-  the piece.  A mediocre opening is a real turn-off.  Worse, it's a
-  turn-off for you as an author, making you less excited about your
-  project.  What to do?  In my opinion: just start brainstorming.
-  Don't worry about whether the generated sentences are good or not.
-  Instead, try to connect with many different ways of thinking about
-  the subject at hand.  Then, once you've got a stock of sentences,
-  start to think analytically about the sentences.  What makes each
-  one good or bad?  Can you improve any of the sentences?  Do they
-  suggest more ideas for sentences?
-
+**When in trouble, quickly brainstorm ten or more opening sentences:**
+  On occasion, one comes to a piece of writing with the perfect
+  opening sentence.  Take the good fortune and run!  But when one does
+  not have that sentence, things become more difficult.  It's tempting
+  to compromise, and to accept a mediocre opening sentence.  The
+  problem is that this is the reader's introduction to your writing.
+  A mediocre opening telegraphs to the reader that you're not going to
+  make good use of their time.  It's also a turn-off for you as an
+  author, making you less excited about your project.  By contrast, a
+  good opening sentence establishes trust with the reader, and helps
+  excite you, as an author.
+  
+  So what to do when you're having trouble finding a good opening
+  sentence?
+  
+  In my opinion: just start brainstorming.  Quickly generate 10 or
+  more opening sentences.  Don't worry about whether they're good or
+  not.  Instead, try to connect with many different ways of thinking
+  about the subject at hand.  Then, once you've got a stock of
+  sentences, start to think analytically about the sentences.  What
+  makes each one good or bad?  Can you improve any of the sentences?
+  Do they suggest more ideas for sentences?
+  
+  This is a time-intensive process.  It can feel like wasted time --
+  you might end up spending an hour (or even more!) on this.  But it's
+  not wasted time.  The opening sentence is the beginning of your
+  relationship with the reader, and with your own piece of work.  On
+  both counts you want things to start off on the right foot.
+  
 ### Opening sentence: "How Buildings Learn" (Brand)
 
 > Year after year, the cultural elite of San Francisco is treated to

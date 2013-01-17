@@ -12,9 +12,16 @@
 
 **Does the sentence start as late as possible?**
 
-**Generate ten or more opening sentences:** Just start brainstorming.
-  Don't worry about whether they are good or not.  Instead, try to
-  connect with many different ways of opening, and of thinking about
+**Generate ten or more opening sentences:** On occasion, one has the
+  perfect opening sentence.  When that's the case, great --- take the
+  good fortune and run.  But when not, things become more difficult.
+  It's tempting to compromise, and to accept a mediocrate opening
+  sentence.  The problem is that this is the reader's introduction to
+  the piece.  A mediocre opening is a real turn-off.  Worse, it's a
+  turn-off for you as an author, making you less excited about your
+  project.  What to do?  In my opinion: just start brainstorming.
+  Don't worry about whether the generated sentences are good or not.
+  Instead, try to connect with many different ways of thinking about
   the subject at hand.  Then, once you've got a stock of sentences,
   start to think analytically about the sentences.  What makes each
   one good or bad?  Can you improve any of the sentences?  Do they

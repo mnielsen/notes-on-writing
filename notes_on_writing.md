@@ -12,6 +12,8 @@
 
 **Does the sentence start as late as possible?**
 
+**Try generating ten opening sentences**
+
 ### Opening sentence: "How Buildings Learn" (Brand)
 
 > Year after year, the cultural elite of San Francisco is treated to
@@ -27,6 +29,10 @@ have the crass "waiting to pee".  If you toned down the lofty
 language, or toned up the crass language, the sentence would not be
 nearly as funny.  Furthermore, while the observation would remain
 true, it would be a less interesting truth.
+
+### Opening sentence: "What Technology Wants" (Kelly)
+
+> For most of my life I owned very little.
 
 ### Opening sentence: "The Language Instinct" (Pinker)
 

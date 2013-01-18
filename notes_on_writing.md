@@ -160,9 +160,9 @@ example.
 
 The problem with "interesting" is when it's used because you lack
 confidence.  It's announcing "hey, this next topic might sound boring,
-but I promise you, it's interesting".  It actually subtly signals the
-opposite.  It's telling the reader that the subject sounds boring.
-The solution is to _make_ it interesting from the start.  Often, this
-means deleting your sentence about how interesting the topic to come
-is, and instead just jumping in, and getting on with it.  But make
-damn sure it actually is interesting!
+but I promise you, it's interesting".  It subtly signals the opposite.
+It's telling the reader that the subject sounds boring.  The solution
+is to _make_ it interesting, right from the start.  Often, this means
+deleting your sentence about how interesting the topic to come is, and
+instead just getting on with it.  But make damn sure your discussion
+is interesting!

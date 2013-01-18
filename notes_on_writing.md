@@ -1,12 +1,16 @@
 # Notes on writing
 
 **Working notes on writing, by Michael Nielsen:** These are _rough_
-  working notes.  I'm writing them to help me achieve a better quality
-  of writing in polished pieces.  They're not intended to be models of
-  prose in themselves.
+  working notes.  I'm writing them to help improve my polished pieces
+  of writing.  They're not intended as models of prose in themselves.
 
 ## Titles
 
+**A Brief History of Time (Hawking):** Amusing, in multiple ways: the
+  self-reference of having a history of time; the self-reference that
+  it's brief; and finally the fact that the title is a pretty darned
+  literal description of the book.
+  
 **The Future of Ideas (Lessig):** I'm not sure whether this is a good
   title or not.  It's ambitious and provocative, a big-picture title.
   It almost forces the reader to confront the question: what is the

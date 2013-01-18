@@ -31,6 +31,12 @@
   arises through many agents", or something in that vein.  (That's not
   a good subtitle, but something along those lines might have worked.)
 
+**Juxtaposition:** Many titles juxtapose two words (or concepts) that
+  are not usually together.  This is particularly effective when the
+  juxtaposition is surprising, but in retrospect meaningful.  "The
+  Selfish Gene" is, for example, more surprising than "The Future of
+  Ideas".  "Future Shock" is an excellent juxtaposition. 
+    
 ## Opening sentences
 
 **Is the sentence striking enough to make the reader want to read

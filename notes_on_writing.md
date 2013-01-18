@@ -1,9 +1,31 @@
 # Notes on writing
 
-**Working notes on writing, by Michael Nielsen:** Note that these are
-  _rough_ working notes.  They're intended to help me achieve a better
-  quality of writing in polished pieces, not to be models of prose in
-  themselves.
+**Working notes on writing, by Michael Nielsen:** These are _rough_
+  working notes.  I'm writing them to help me achieve a better quality
+  of writing in polished pieces.  They're not intended to be models of
+  prose in themselves.
+
+## Titles
+
+**The Future of Ideas (Lessig):** I'm not sure whether this is a good
+  title or not.  It's ambitious and provocative, a big-picture title.
+  It almost forces the reader to confront the question: what is the
+  future of ideas?  But it's huge scope also means that it's a vague
+  title.  And, in the end, it's not quite what the book is about.  The
+  book is really about the future of expression, i.e., the future of
+  how ideas and culture are expressed.  This makes the title somewhat
+  elusive, the kind where, after reading the book, you may not recall
+  the title.
+
+**The Society of Mind (Minsky):** What I like about this title is that
+  it really is exactly what the book is about.  After you've read the
+  book you won't have any difficulty recalling the title.  A problem
+  with the title is that it's not really obvious to the prospective
+  reader what it means.  It does, at least, sound pregnant with
+  meaning, and it's also an idea that is relatively easy to explain.
+  It might, perhaps, have been helped by a subtitle: "how the mind
+  arises through many agents", or something in that vein.  (That's not
+  a good subtitle, but something along those lines might have worked.)
 
 ## Opening sentences
 

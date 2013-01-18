@@ -138,3 +138,28 @@ because it leaves vague exactly what is being connected to what.
 > Fifty miles southeast of the Mexican city of Chihuahua is a dry,
 > bare mountain range called Sierra de Naica.
 
+# Danger words
+
+**Interesting:** A bad tic is to announce interestingness.  This is a
+  tic to which many academics and ex-academics (including myself) are
+  susceptible:
+
+> "It's interesting to consider..."  
+
+> "An interesting example..."
+
+There are several problem with these common uses of "interesting".
+First, you're instructing the reader how they should feel, when you
+should instead be making them feel that way by your _interesting_
+prose.  Second, these uses are vague.  What exactly is the interesting
+aspect of the subjects under discussion?
+
+The first example above can be rewritten as
+"Consider...". "Interesting" can be elided completely from the second
+example.
+
+The problem with "interesting" is when it's used because you lack
+confidence.  It's announcing "hey, this next topic might sound boring,
+but I promise you, it's interesting".  It actually subtly signals the
+opposite.  It's telling the reader that the subject sounds boring.
+The solution is to _make_ it interesting from the start.

@@ -53,9 +53,9 @@
 **Three types of titles:** (1) Books that describe a subject or field.
 These titles name the subject or field, perhaps with a simple
 modifier: *Introduction to algorithms*; *Principles of neuroscience*;
-**Quantum Computation and Quantum Information*.  (2) Journalistic
-books that are principally reporting.  These may follow the pattern of
-(1), or perhaps have a quirkier title that reflects some aspect of the
+*Quantum Computation and Quantum Information*.  (2) Journalistic books
+that are principally reporting.  These may follow the pattern of (1),
+or perhaps have a quirkier title that reflects some aspect of the
 subject or field under investigation.  *In the plex* is an example of
 the quirky approach.  *Complexity* is an example that follows (1).
 (3) Idea books, i.e., books which explore a new concept or propose a
@@ -65,6 +65,37 @@ Miscellaneous*.  *One the Origin of Species by Means of Natural
 Selection*.  *Biology is Technology*.  Failing that, the title
 describes the problem to be addressed: *The Trouble With Physics*.
 *Reinventing Discovery*.
+
+**Adjective-noun title forms:** A common form for the big idea in
+  big-idea books.  _The Selfish Gene_.  *Free Culture* (free has a
+  double meaning as a verb here).  *The Long Tail*.  *Collective
+  Intelligence*.  *Global Brain*.  Hey, this can be turned into a fun
+  mad libs game!  I'll now generate two lists, drawn from the books on
+  the bookcase immediately beside me.  A few of these words aren't
+  usually used as adjectives or nouns, but they are in the books
+  titles I'm quoting, so I'll run with it.  I've taken the first
+  twenty adjectives, and the last twenty nouns (i.e., they're being
+  drawn from different books on my shelf):
+
+> selfish, free, long, collective, global, public, parallel,
+> distributed, critical, digital, big, open source, fab, economic,
+> wiki, lifelong, information, administrative, artificial, formal
+
+> principle, wikinomics, 2.0, surplus, smog, genius, optimist, mobs,
+> bubble, intelligence, manifesto, culture, innovation, chronicles,
+> crunchers, tail, University, brain, science, cyborg
+
+These lists suggest many amusing or stimulating titles. Some I'd
+certainly consider reading. Here are a few that tickled me: _The
+Selfish Brain_.  _Administrative Genius_.  _The Lifelong
+Optimist_. _The Free Cyborg_.  _The Distributed University_.  And they
+suggest derivatives as well: _The Information Deficit_.  _A Manifesto
+for Ignorance_.  And so on.  Not bad for ten minutes work.
+
+A cynic might say that all this proves is that our public intellectual
+life is a narrow game.  I think that's wrong (though _The Narrow Game_
+is a good title, hmm...)  Instead, I think the message is optimistic:
+it really is easy to generate fascinating ideas and questions!
 
 ## Opening sentences
 

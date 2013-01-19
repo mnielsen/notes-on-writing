@@ -135,6 +135,18 @@ kicker of a conversation starter.  The phrase "on a planet" could
 arguably be omitted.  It might be better to say something like: "An
 intelligent species comes of age when...".
 
+### Opening sentence: "How to do what you love" (Graham)
+
+> To do something well you have to like it.
+
+A simple assertion about reality.  It has power because (a) if true,
+it has profound consequences; (b) it's almost but not quite true
+(creating tension); (b) many of us are in the uncomfortable position
+of both believing it's largely correct, _and_ not always acting on it.
+
+The result is that there's a _lot_ immediately on the line, and
+there's a lot of tension in the air.
+
 ### Opening sentence: "What Technology Wants" (Kelly)
 
 > For most of my life I owned very little.

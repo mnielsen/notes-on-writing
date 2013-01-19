@@ -1,7 +1,7 @@
 # Notes on writing
 
-**Working notes on writing, by Michael Nielsen:** These are _rough_
-  working notes.  I'm writing them to help improve my polished pieces
+**Rough working notes on writing, by Michael Nielsen:** These are
+  _rough_ notes.  I'm writing them to help improve my polished pieces
   of writing.  They're not intended as models of prose in themselves.
 
 ## Titles

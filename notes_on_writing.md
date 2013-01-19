@@ -48,7 +48,24 @@
   juxtaposition is surprising, but in retrospect meaningful.  "The
   Selfish Gene" is, for example, more surprising than "The Future of
   Ideas".  "Future Shock" is an excellent juxtaposition. 
-    
+
+
+**Three types of titles:** (1) Books that describe a subject or field.
+These titles name the subject or field, perhaps with a simple
+modifier: *Introduction to algorithms*; *Principles of neuroscience*;
+**Quantum Computation and Quantum Information*.  (2) Journalistic
+books that are principally reporting.  These may follow the pattern of
+(1), or perhaps have a quirkier title that reflects some aspect of the
+subject or field under investigation.  *In the plex* is an example of
+the quirky approach.  *Complexity* is an example that follows (1).
+(3) Idea books, i.e., books which explore a new concept or propose a
+theory.  Here, the title ideally names the central new concept or
+theory.  *The Selfish Gene*.  *The Ingenuity Gap*.  *Everything is
+Miscellaneous*.  *One the Origin of Species by Means of Natural
+Selection*.  *Biology is Technology*.  Failing that, the title
+describes the problem to be addressed: *The Trouble With Physics*.
+*Reinventing Discovery*.
+
 ## Opening sentences
 
 **Is the sentence striking enough to make the reader want to read

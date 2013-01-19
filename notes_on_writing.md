@@ -167,8 +167,8 @@ deleting your sentence about how interesting the topic to come is, and
 instead just getting on with it.  But make damn sure your discussion
 is interesting!
 
-**Very:** Many uses of "very" can be omitted.  It is often used to
-  intensify descriptions:
+**Very:** The worst of the adverbs.  Many uses of "very" can be
+  omitted.  It is often used to intensify descriptions:
   
 > He was a very important person.
 

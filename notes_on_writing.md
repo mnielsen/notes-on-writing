@@ -139,13 +139,17 @@ intelligent species comes of age when...".
 
 > To do something well you have to like it.
 
-A simple assertion about reality.  It has power because (a) if true,
-it has profound consequences; (b) it's almost but not quite true
-(creating tension); (b) many of us are in the uncomfortable position
-of both believing it's largely correct, _and_ not always acting on it.
+A simple assertion about reality.  It has power because: (a) if true,
+it has profound consequences for how we live; (b) it's almost but not
+quite true (creating tension); and especially (c) many of us are in
+the uncomfortable position of both believing it's largely correct, but
+not always acting on it.
 
-The result is that there's a _lot_ immediately on the line, and
-there's a lot of tension in the air.
+The result is that there's a lot immediately on the line, and
+considerable tension in the air.  Graham has started with the kind of
+near-truism that we _should_ think about and act upon, but often
+don't, because we're made uncomfortable by the gap between the truth
+of the assertion and the reality of our lives.
 
 ### Opening sentence: "What Technology Wants" (Kelly)
 

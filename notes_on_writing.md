@@ -166,3 +166,46 @@ is to _make_ it interesting, right from the start.  Often, this means
 deleting your sentence about how interesting the topic to come is, and
 instead just getting on with it.  But make damn sure your discussion
 is interesting!
+
+**Very:** Many uses of "very" can be omitted.  It is often used to
+  intensify descriptions:
+  
+> He was a very important person.
+
+> She looked very angry.
+
+> Jake would very much like to eat lunch.
+
+Unfortunately, "very" is so generic that gains in intensity due to its
+use are often offset by the dilution caused by using an extra word.
+It's rarely worth the tradeoff.  The best that can be said is that if
+used _very_ sparingly, the rareness of the occurrence may serve as a
+sign to the reader that the writer really does mean business.
+
+In the first two sentences above the word "very" can be omitted with
+little loss.  If "very" is essential to the sentence, then its work
+should be done by the surrounding context.  Show us his great
+importance; show her great anger.  Merely using "very" will not
+convince us!
+
+The third sentence is more complex.  Omission is unsatisfactory:
+
+> Jake would like to eat lunch.
+
+Something is lost here, since the intensity in "very much" is _very
+much_ the point of the original sentence.  Unfortunately, "very much"
+remains weak due to its generic nature.  It's better to replace the
+entire construction with something specific:
+
+> Jake was ravenous for lunch.
+
+There are other times, however, when "very" can be used well.  Here's
+an acceptable use, in dialogue:
+
+> "Was she angry?"
+>
+> "Very"
+
+Again, in this example "very" is being used with a specific purpose,
+not as a generic intensifer.  And it works particularly well because
+it makes its xpoint with such economy.

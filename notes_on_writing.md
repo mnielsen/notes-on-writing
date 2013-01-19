@@ -90,7 +90,10 @@ certainly consider reading. Here are a few that tickled me: _The
 Selfish Brain_.  _Administrative Genius_.  _The Lifelong
 Optimist_. _The Free Cyborg_.  _The Distributed University_.  And they
 suggest derivatives as well: _The Information Deficit_.  _A Manifesto
-for Ignorance_.  And so on.  Not bad for ten minutes work.
+for Ignorance_.  And so on.  Not bad for ten minutes work.  It's also
+notable that this process is easily scaled, and won't hit the point of
+diminishing returns very quickly.  Spend ten times as long, get ten
+times as many titles.
 
 A cynic might say that all this proves is that our public intellectual
 life is a narrow game.  I think that's wrong (though _The Narrow Game_

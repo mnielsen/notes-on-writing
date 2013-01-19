@@ -213,8 +213,7 @@ instead just getting on with it.  But make damn sure your discussion
 is interesting!
 
 **Quite:** The second-worst of the adverbs.  Much of what is said
-  below about "very" applies also to "quite", with only the obvious
-  changes.
+  below about "very" applies also to "quite", with obvious changes.
 
 **Very:** The worst of the adverbs.  Many uses of "very" can be
   omitted.  It is often used to intensify descriptions:

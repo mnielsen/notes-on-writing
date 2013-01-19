@@ -254,3 +254,26 @@ an acceptable use, in dialogue:
 Again, in this example "very" is being used with a specific purpose,
 not as a generic intensifer.  And it works particularly well because
 it makes its xpoint with such economy.
+
+# On Classic Style
+
+Notes on classic writing style, as explained in Francis-Noel Thomas
+and Mark Turner's book <a
+href="http://www.amazon.com/gp/product/0691147434/ref=as_li_tf_tl?ie=UTF8&tag=michaniels-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0691147434">Clear
+and Simple as the Truth</a><img
+src="http://www.assoc-amazon.com/e/ir?t=michaniels-20&l=as2&o=1&a=0691147434"
+width="1" height="1" border="0" alt="" style="border:none !important;
+margin:0px !important;" />.
+
+**Beware classic style if you've not yet mastered a subject:**
+Sometimes, you wish to write about a subject, even though you haven't
+yet mastered that subject.  It is difficult to write on such a subject
+in classic style, because the assumptions of classic style very nearly
+imply mastery.  It is easier to instead slip occasionally into a
+personal style, explaining your exploration of the subject, and the
+limits of your knowledge.  In such cases it may work to use a hybrid
+style, in which you alternate the personal with the classic.  Feynman
+occasionally uses this style, either to explain his own thinking, or
+to explain the hypothetical thinking of others.
+
+

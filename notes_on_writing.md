@@ -4,6 +4,18 @@
   _rough_ notes.  I'm writing them to help improve my polished pieces
   of writing.  They're not intended as models of prose in themselves.
 
+**Advice on writing is really advice on the psychology of reading:**
+  Advice on writing is sometimes written in a tough-sounding,
+  objective style.  "Avoid adverbs".  "Avoid needless words".
+  Justifications for these rules are couched in terms of generalities
+  about what makes good writing.  But good writing is not an intrinsic
+  property of the text.  Instead, it's a quality of the relationship
+  between reader and what is written.  And so good advice on writing
+  is really about how to change that relationship to achieve the
+  author's desired end.  In some sense, we're build up a _theory_ of
+  that relationship, a psychology of reading.  And the better our
+  theory of that psychology, the better our writing.
+
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the

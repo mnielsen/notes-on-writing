@@ -98,7 +98,14 @@ times as many titles.
 A cynic might say that all this proves is that our public intellectual
 life is a narrow game.  I think that's wrong (though _The Narrow Game_
 is a good title, hmm...)  Instead, I think the message is optimistic:
-it really is easy to generate fascinating ideas and questions!
+it'ss easy to generate good, novel ideas and questions!
+
+**Noun-is-noun title forms:** _Everything bad is good for you_.
+  _Biology is technology_. _Everything is illuminated_. _This is not a
+  novel_. Again, acquires power through contrast in juxtaposition.  I
+  love the title _Everything is illuminated_: it's simple, yet
+  suggestive of so much.  While it doesn't produce quite as many hits
+  as adjective-noun forms, it's still fun to play mad libs style.
 
 ## Opening sentences
 

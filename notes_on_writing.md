@@ -1,8 +1,8 @@
-# Notes on writing
+# Notes on writing well
 
-**Rough working notes on writing, by Michael Nielsen:** These are
-  _rough_ notes.  I'm writing them to help improve my polished pieces
-  of writing.  They're not intended as models of prose in themselves.
+**Working notes, by Michael Nielsen:** These are _rough_ notes.  I'm
+  writing them to help improve my polished pieces of writing.  They're
+  not intended as models of prose in themselves.
 
 **Advice on writing is really advice on the psychology of reading:**
   Advice on writing is sometimes written in a tough-sounding,

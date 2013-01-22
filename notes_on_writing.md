@@ -29,7 +29,16 @@
  The only solution I know to this problem is to revise sentences over
  and over, asking again and again if we can make our sentences
  _sharper_, and if we really _believe_ those sentences.
-   
+  
+**Beware using words on the page that you wouldn't use in speech:**
+  It's not always bad.  But what are your motivations?  Are you using
+  fancy language to appear authoritative?  If you're doing that, then
+  you're allowing an agenda to creep into your writing, one that isn't
+  in service to the reader.  Furthermore, lacking practice with the
+  word, your feel for the word may be all wrong.  With that said, if
+  you're confident you're using the word in service to the reader, by
+  all means, go for it!
+
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the

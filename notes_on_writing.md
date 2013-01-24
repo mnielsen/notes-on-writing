@@ -30,14 +30,16 @@
  and over, asking again and again if we can make our sentences
  _sharper_, and if we really _believe_ those sentences.
   
-**Beware using words on the page that you wouldn't use in speech:**
-  It's not always bad.  But what are your motivations?  Are you using
-  fancy language to appear authoritative?  If you're doing that, then
-  you're allowing an agenda to creep into your writing, one that isn't
-  in service to the reader.  Furthermore, lacking practice with the
-  word, your feel for the word may be all wrong.  With that said, if
-  you're confident you're using the word in service to the reader, by
-  all means, go for it!
+**Beware the writing of words that you wouldn't use while speaking:**
+This isn't always a mistake, but it must be done consciously, and for
+the right reasons.  A common reason writers do this is to appear
+authoritative --- writing in what they imagine is the language of the
+experts.  Unfortunately, lacking practice with the word, their feel
+for the word is likely to be wrong, unless they are exceptionally
+careful.  Furthermore, by doing this they allow an agenda to creep
+into their writing, one that isn't necessarily in service to the
+reader.  With that said, if you're confident you're using the word in
+service to the reader, by all means, go for it!
 
 ## Titles
 

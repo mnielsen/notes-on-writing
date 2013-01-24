@@ -17,19 +17,19 @@
   theory of that psychology, the better our writing.
 
 **Writing the truth:** It's hard to write the truth.  When I say this
- it sounds like a confession of sin.  It sounds like I'm saying that I
- lie a lot, or that I'm accusing other writers of lying.  But that's
- not what I mean.  It's that if what you're writing has any novelty,
- then your early drafts will likely be, at best, a rough approximation
- to the truth.  Those drafts will contain many sentences and
- paragraphs which are the written equivalent of those conversational
- fumbles where we finally burst out with "You know what I mean".
- Unfortunately, when writing it's easy not to notice when we make such
- fumbles, and to settle for writing which only approximates the truth.
- The only solution I know to this problem is to revise sentences over
- and over, asking again and again if we can make our sentences
- _sharper_, and if we really _believe_ those sentences.
-  
+ it sounds like I'm saying that I lie a lot, or I'm accusing other
+ writers of lying.  But that's not what I mean.  If what you're
+ writing has any novelty, then your early drafts will likely be, at
+ best, rough approximations to the truth.  Those drafts will contain
+ many sentences and paragraphs which are the written equivalent of
+ those conversational fumbles where we finally burst out with "You
+ know what I mean".  Unfortunately, when writing it's easy not to
+ notice when we make such fumbles, and to settle for writing which
+ approximates the truth poorly.  The only solution I know to this
+ problem is to revise over and over, asking repeatedly of each
+ sentence whether it can be _sharper_, and if we really, truly,
+ _believe_ that sentence.
+   
 **Beware the writing of words that you wouldn't use while speaking:**
 This isn't always a mistake, but it must be done consciously, and for
 the right reasons.  A common reason writers do this is to appear

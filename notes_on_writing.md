@@ -1,45 +1,44 @@
 # Notes on writing well
 
 **Working notes, by Michael Nielsen:** These are _rough_ notes.  I'm
-  writing them to help improve my polished pieces of writing.  They're
-  not intended as models of prose in themselves.
+  writing them to help me improve my polished writing.  They're not
+  intended as models of prose in themselves.
 
-**Advice on writing is really advice on the psychology of reading:**
-  Advice on writing is sometimes written in a tough-sounding,
-  objective style.  "Avoid adverbs".  "Avoid needless words".
-  Justifications for these rules are couched in terms of generalities
-  about what makes good writing.  But good writing is not an intrinsic
-  property of the text.  Instead, it's a quality of the relationship
-  between reader and what is written.  And so good advice on writing
-  is really about how to change that relationship to achieve the
-  author's desired end.  In some sense, we're build up a _theory_ of
-  that relationship, a psychology of reading.  And the better our
-  theory of that psychology, the better our writing.
+## Observations
 
-**Writing the truth:** It's hard to write the truth.  When I say this
- it sounds like I'm saying that I lie a lot, or I'm accusing other
- writers of lying.  But that's not what I mean.  If what you're
- writing has any novelty, then your early drafts will likely be, at
- best, rough approximations to the truth.  Those drafts will contain
- many sentences and paragraphs which are the written equivalent of
- those conversational fumbles where we finally burst out with "You
- know what I mean".  Unfortunately, when writing it's easy not to
- notice when we make such fumbles, and to settle for writing which
- approximates the truth poorly.  The only solution I know to this
- problem is to revise over and over, asking repeatedly of each
- sentence whether it can be _sharper_, and if we really, truly,
- _believe_ that sentence.
-   
-**Beware the writing of words that you wouldn't use while speaking:**
-This isn't always a mistake, but it must be done consciously, and for
-the right reasons.  A common reason writers do this is to appear
-authoritative --- writing in what they imagine is the language of the
-experts.  Unfortunately, lacking practice with the word, their feel
-for the word is likely to be wrong, unless they are exceptionally
-careful.  Furthermore, by doing this they allow an agenda to creep
-into their writing, one that isn't necessarily in service to the
-reader.  With that said, if you're confident you're using the word in
-service to the reader, by all means, go for it!
+**It's hard to write the truth:** When I say it's hard to write the
+truth, it sounds as though I'm saying that I lie a lot, or I'm
+accusing other writers of lying.  But that's not what I mean.  If your
+writing has novelty, then early drafts will likely be, at best, rough
+approximations to the truth.  Those drafts will contain sentences and
+paragraphs which are the written equivalent of those conversational
+fumbles where we finally burst out with "You know what I mean".
+Unfortunately, when writing it's easy not to notice when we make such
+fumbles, and to settle for writing which is a poor approximation to
+the truth.  The only solution I know to this problem is to revise over
+and over, asking repeatedly of each sentence whether it can be
+_sharper_, and if we really, truly, _believe_ that sentence.
+
+**Good writing is good psychology:** Advice on writing is sometimes
+presented in a tough-sounding, objective style.  "Avoid adverbs".
+"Avoid needless words".  Justifications for these rules are couched in
+generalities about what makes good writing.  But good writing isn't an
+intrinsic property of the text.  It's a quality of the relationship
+between reader and what is written.  And so advice on writing is
+necessarily about how to change that relationship.  Good writers build
+up a _theory_ of that relationship, a psychology of reading.  The
+better our theory of that psychology, the better our writing.
+
+**Beware words that you wouldn't use while speaking:** Using such
+words in your writing isn't always a mistake, but it must be done
+consciously, and for the right reasons.  Writers often this to appear
+authoritative --- writing in what they imagine is expert language.
+Unfortunately, lacking practice with the word, their feel for the word
+is likely to be wrong, unless they are exceptionally careful.
+Furthermore, they allow an agenda to creep into their writing, an
+agenda that isn't necessarily in service to the reader.  With that
+said, if you're confident you're using the word in service to the
+reader, by all means, go for it!
 
 ## Titles
 

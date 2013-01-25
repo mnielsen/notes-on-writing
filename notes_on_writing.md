@@ -31,14 +31,14 @@ better our theory of that psychology, the better our writing.
 
 **Beware words that you wouldn't use while speaking:** Using such
 words in your writing isn't always a mistake, but it must be done
-consciously, and for the right reasons.  Writers often this to appear
-authoritative --- writing in what they imagine is expert language.
-Unfortunately, lacking practice with the word, their feel for the word
-is likely to be wrong, unless they are exceptionally careful.
-Furthermore, they allow an agenda to creep into their writing, an
-agenda that isn't necessarily in service to the reader.  With that
-said, if you're confident you're using the word in service to the
-reader, by all means, go for it!
+consciously, and for the right reasons.  Writers often do this to
+appear authoritative --- writing in what they imagine is expert
+language.  Unfortunately, lacking practice with the language, their
+feel for the words they're using is likely to be wrong, unless they
+are exceptionally careful.  Furthermore, they allow an agenda to creep
+into their writing, an agenda that isn't necessarily in service to the
+reader.  With that said, if you're confident you're using the word in
+the reader's service, go for it!
 
 ## Titles
 

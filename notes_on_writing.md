@@ -40,6 +40,85 @@ into their writing, an agenda that isn't necessarily in service to the
 reader.  With that said, if you're confident you're using the word in
 the reader's service, go for it!
 
+**One purpose:** A good piece of writing has a single, sharp,
+overriding purpose.  Every part of the writing --- even the
+digressions! --- should serve that overall purpose.
+
+A common pattern is to begin a piece with a problem or a mystery or a
+promise.  Resolving that problem or mystery or promise defines the
+purpose of the piece.  Of course, your writing may take the reader on
+a journey, gradually redefining the purpose.  But it nonetheless
+remains with the reader and the author.  "Destroy the One Ring" is our
+obsession in _The Lord of the Rings_.  _Where Do Good Ideas Come
+From?_ tells us what it's about in the title.  _The Language Instinct_
+promises to explore the idea that much of the structure of language is
+innate to our brains, not learned.  Each book focuses relentlessly on
+its purpose.
+
+I'm not sure I really understand why clarity of purpose matters so
+much to good writing.  Yet writing which violates it nearly always
+suffers.  Lois Bujold begins one of her books with a mystery, which
+she resolves partway through the book.  The book then changes to be
+about something else. It's telling that I don't remember either the
+title of the book, or plot details. 
+
+Perhaps an explanation lies in the nature of our emotional bond to a
+book.  That bond is formed early, and if changes too much, the bond is
+severed.  The author may try to establish a new bond, but
+we-the-reader become confused.  Are we supposed to commit again?  What
+is the book really about?
+
+There are famous examples which evade this rule.  I'm not sure what
+Douglas Adams' books were about, but I enjoy them for the sheer
+sentence-by-sentence pleasure.  Perhaps that _is_ what Adams' books
+were about.  I'm also not sure what Robert Pirsig's _Zen and the Art
+of Motorcycle Maintenance_ was about, but it was a terrific book.
+Such examples aside, most successful writing has a single overriding
+purpose.
+
+This observation matters because it's often tempting to let your
+purpose expand and become vague.  Writing a piece about gardens?  Hey,
+why not include that important related thought you had about
+rainforests?  Now you have a piece that's sort of about gardens and
+sort of about rainforests, and not really about anything.  There's
+nothing really there for the reader to bond to.  This expansion in
+purpose is done with the best of intentions --- you want to write
+about all the good ideas that you have.  But it breaks the clarity of
+your communication with the reader.  It's a type of _discursive
+disease_.
+
+Discursive disease is difficult to combat.  The only surefire solution
+is to rewrite, culling and editing ruthlessly until you have a single
+purpose.  But a partial solution is to make sure you always _know your
+purpose_.  I'm currently experimenting with writing the purpose of
+pieces I'm working on into the head of the file for that piece.  I'll
+then review it each time I sit down to write.
+
+This is not to say that the purpose should be fixed.  If you're
+writing to discover then the purpose will evolve over time, and
+perhaps even change radically.  That's part of why you're writing.
+But your final piece should reflect only the purpose that you
+discovered during the writing.  All else, no matter how good, must be
+removed.  File it somewhere where you can find it again later, for use
+in future writing projects.  When Aaron Sorkin wrote the television
+movie _The American President_ he gathered far more material than he
+could use in the final script.  He put the extra material aside, and
+later it helped him write _The West Wing_.
+
+A complicating factor is that sometimes you need _need_ to explore
+beyond the boundaries of your current purpose.  You're writing for
+purpose A, but your instinct tells you that you need to explore
+subject B.  Unfortunately, you're not yet sure how subject B fits in.
+If that's the case then you _must_ take time to explore, and to
+understand how, if at all, subject B fits in, and whether you need to
+revise your purpose.  This is emotionally difficult.  It creates
+uncertainty, and you may feel as though your work on subject B is
+wasted effort.  These doubts must be resisted.
+
+**"What is your book (or essay) about?"** Connected to the last point.
+  You _must_ have a compelling answer to this.  If you don't, then
+  your book or essay doesn't have a single overriding purpose.
+
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the

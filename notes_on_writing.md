@@ -1,8 +1,8 @@
 # Notes on writing well
 
-**Working notes, by Michael Nielsen:** These are _rough_ notes.  I'm
-  writing them to help me improve my polished writing.  They're not
-  intended as models of prose in themselves.
+**Working notes, by Michael Nielsen:** These are _rough_ notes.
+ They're intended to help me improve my polished writing, not to be
+ models of prose in themselves.
 
 ## Observations
 
@@ -17,7 +17,7 @@ Unfortunately, when writing it's easy not to notice when we make such
 fumbles, and to settle for writing which is a poor approximation to
 the truth.  The only solution I know to this problem is to revise over
 and over, asking repeatedly of each sentence whether it can be
-_sharper_, and if we really, truly, _believe_ that sentence.
+_sharper_, and if we really, truly, _believe_ the sentence.
 
 **Good writing is good psychology:** Advice on writing is sometimes
 presented in a tough-sounding, objective style.  "Avoid adverbs".

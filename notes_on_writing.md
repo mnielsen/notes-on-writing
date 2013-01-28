@@ -1,8 +1,8 @@
 # Notes on writing well
 
-**Working notes, by Michael Nielsen:** These are _rough_ notes.
- They're intended to help me improve my polished writing, not to be
- models of prose in themselves.
+**Working notes, by Michael Nielsen:** These are _rough_ notes.  I'm
+ writing them to help me improve my polished writing, not as models of
+ prose in themselves.
 
 ## Observations
 
@@ -42,25 +42,26 @@ the reader's service, go for it!
 
 **One purpose:** A good piece of writing has a single, sharp,
 overriding purpose.  Every part of the writing --- even the
-digressions! --- should serve that overall purpose.
+digressions! --- should serve that purpose.
 
 A common pattern is to begin a piece with a problem or a mystery or a
-promise.  Resolving that problem or mystery or promise defines the
-purpose of the piece.  Of course, your writing may take the reader on
-a journey, gradually redefining the purpose.  But it nonetheless
-remains with the reader and the author.  "Destroy the One Ring" is our
-obsession in _The Lord of the Rings_.  _Where Do Good Ideas Come
-From?_ tells us what it's about in the title.  _The Language Instinct_
-promises to explore the idea that much of the structure of language is
-innate to our brains, not learned.  Each book focuses relentlessly on
-its purpose.
+promise.  Resolving the problem or mystery or fulfilling the promise
+is what defines the purpose of the piece.  Of course, your writing may
+take the reader on a journey, gradually refining (and perhaps
+redefining) the purpose.  But it nonetheless remains with the reader
+and the author.  "Destroy the One Ring" is our obsession in _The Lord
+of the Rings_.  The problem confronted in _Where Do Good Ideas Come
+From?_ needs no elaboration.  _The Language Instinct_ promises to
+explore the idea that much of the structure of language is innate to
+our brains, not learned.  Each book focuses relentlessly on its
+purpose.
 
 I'm not sure I really understand why clarity of purpose matters so
 much to good writing.  Yet writing which violates it nearly always
 suffers.  Lois Bujold begins one of her books with a mystery, which
 she resolves partway through the book.  The book then changes to be
 about something else. It's telling that I don't remember either the
-title of the book, or plot details. 
+title of the book, or more plot details.
 
 Perhaps an explanation lies in the nature of our emotional bond to a
 book.  That bond is formed early, and if changes too much, the bond is
@@ -69,11 +70,11 @@ we-the-reader become confused.  Are we supposed to commit again?  What
 is the book really about?
 
 There are famous examples which evade this rule.  I'm not sure what
-Douglas Adams' books were about, but I enjoy them for the sheer
+Douglas Adams' books are about, but I enjoy them for the sheer
 sentence-by-sentence pleasure.  Perhaps that _is_ what Adams' books
-were about.  I'm also not sure what Robert Pirsig's _Zen and the Art
-of Motorcycle Maintenance_ was about, but it was a terrific book.
-Such examples aside, most successful writing has a single overriding
+are about.  I'm also not sure what Robert Pirsig's _Zen and the Art of
+Motorcycle Maintenance_ is about, but it's a terrific book.  Such
+examples aside, most successful writing has a single overriding
 purpose.
 
 This observation matters because it's often tempting to let your
@@ -117,7 +118,8 @@ wasted effort.  These doubts must be resisted.
 
 **"What is your book (or essay) about?"** Connected to the last point.
   You _must_ have a compelling answer to this.  If you don't, then
-  your book or essay doesn't have a single overriding purpose.
+  your book or essay almost certainly doesn't have a single overriding
+  purpose.
 
 ## Titles
 

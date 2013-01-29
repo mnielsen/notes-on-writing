@@ -20,14 +20,16 @@ and over, asking repeatedly of each sentence whether it can be
 _sharper_, and if we really, truly, _believe_ the sentence.
 
 **Good writing is good psychology:** Advice on writing is sometimes
-presented in a tough-sounding, objective style.  "Avoid adverbs".
-"Avoid needless words".  Justifications for these rules are couched in
-generalities about what makes good writing.  But good writing isn't an
-intrinsic property of the text.  It's a quality of the relationship
-between reader and what is written.  And so advice on writing is
-necessarily about how to change that relationship.  Good writers build
-up a _theory_ of that relationship, a psychology of reading.  The
-better our theory of that psychology, the better our writing.
+presented in a tough-sounding, apparently objective style.  "Avoid
+adverbs".  "Avoid needless words".  Etc. Justifications for such rules
+are either omitted entirely, or couched in generalities about what
+makes good writing.  But good writing isn't an intrinsic property of
+the text.  It's a quality of the relationship between reader and what
+is written.  And so advice on writing is about how to change that
+relationship.  Good writers build up a _theory_ of that relationship,
+a psychology of reading.  The better a writer's theory of that
+psychology, the better their writing.  Good writing is really an
+exercise in applied psychology.
 
 **Beware words that you wouldn't use while speaking:** Using such
 words in your writing isn't always a mistake, but it must be done

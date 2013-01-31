@@ -33,14 +33,13 @@ exercise in applied psychology.
 
 **Beware words that you wouldn't use while speaking:** Using such
 words in your writing isn't always a mistake, but it must be done
-consciously, and for the right reasons.  Writers often do this to
-appear authoritative --- writing in what they imagine is expert
-language.  Unfortunately, lacking practice with the language, their
-feel for the words they're using is likely to be wrong, unless they
-are exceptionally careful.  Furthermore, they allow an agenda to creep
-into their writing, an agenda that isn't necessarily in service to the
-reader.  With that said, if you're confident you're using the word in
-the reader's service, go for it!
+consciously, and for good reasons.  Writers often use such words to
+appear authoritative, writing in what they imagine is expert language.
+Unfortunately, lacking practice with that language they're likely to
+use it poorly, unless they are exceptionally careful.  This desire to
+appear authoritative can easily become a self-serving agenda, not an
+agenda in service to the reader. With that said, if you're confident
+you're using the word in the reader's service, go for it!
 
 **One purpose:** A good piece of writing has a single, sharp,
 overriding purpose.  Every part of the writing --- even the

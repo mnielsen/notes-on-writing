@@ -302,6 +302,12 @@ of the assertion and the reality of our lives.
 
 > For most of my life I owned very little.
 
+Probably a surprise for most readers.  Kelly is the author of books on
+technology -- not usually the kind of person we think of as owning
+little.  So the surprise invites us in.  Also, many of us have a
+complicated relationship to what we own, so it promises to provide an
+unusual perspective on a topic of broad interest.
+
 ### Opening sentence: "A Brief History of Time" (Hawking)
 
 > A well-known scientist (some say it was Bertrand Russell) once gave
@@ -316,6 +322,9 @@ informal!
 
 > As you are reading these words, you are taking part in one of the
 > wonders of the natural world.
+
+A beautiful observation, reminding us of the extraordinary in everyday
+life.
 
 ### Opening sentence: "Cosmos" (Sagan)
 

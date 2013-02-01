@@ -380,11 +380,11 @@ is interesting!
 
 > Jake would very much like to eat lunch.
 
-Unfortunately, "very" is so generic that gains in intensity due to its
-use are often offset by the dilution caused by using an extra word.
+Unfortunately, "very" is so generic that any such gains in intensity
+are often lost due to the dilution caused by using an extra word.
 It's rarely worth the tradeoff.  The best that can be said is that if
 used _very_ sparingly, the rareness of the occurrence may serve as a
-sign to the reader that the writer really does mean business.
+sign to the reader that the writer means business.
 
 In the first two sentences above the word "very" can be omitted with
 little loss.  If "very" is essential to the sentence, then its work
@@ -403,16 +403,17 @@ entire construction with something specific:
 
 > Jake was ravenous for lunch.
 
-There are other times, however, when "very" can be used well.  Here's
-an acceptable use, in dialogue:
+There are times when "very" can be used well.  Here's an acceptable
+use, in dialogue:
 
 > "Was she angry?"
 >
 > "Very"
 
-Again, in this example "very" is being used with a specific purpose,
-not as a generic intensifer.  And it works particularly well because
-it makes its point with such economy.
+In this example "very" is being used with a specific purpose, not as a
+generic intensifer.  It works well because it makes its point with
+such economy.  In general, "very" is okay when being used for a
+specific purpose, not as a generic intensifier.
 
 # Structure
 

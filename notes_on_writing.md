@@ -416,18 +416,23 @@ it makes its point with such economy.
 
 # Structure
 
-**Is scientific publishing about to be disrupted:** The opening four
-paragraphs of this essay: (1) On Kongo Gumi, a 1400 year old company
-that has just gone bankrupt; (2) Why do big companies fails?; (3) The
-standard explanations: stupidity or malevolence; (4) My essay:
-proposes a different (and scarier) explanation, and explains how it
-relates to scientific publishing.
+**Is scientific publishing about to be disrupted:** This is an essay I
+wrote in 2009.  In outline, the opening four paragraphs of this essay
+do the following: (1) tells the story of Kongo Gumi, a 1400 year old
+company that had gone bankrupt shortly before I wrote the essay; (2)
+poses the question: "Why do big companies fail?", with several
+examples; (3) recaps the standard explanations: stupidity or
+malevolence; (4) explains what my essay does: proposes a different
+(and scarier) explanation, and explains how it relates to scientific
+publishing.
   
-This structure tells a micro-story that leads one to ask a big, broad
-question.  It then explains the standard answer to that question, and
-how the essay will differ.  It's likely a good opening structure
-whenever you're dealing with a big question with a standard answer and
-your point is to explain an alternate answer.
+Abstracting further, this structure tells a micro-story that leads one
+to ask a big, broad question.  It then explains the standard answer to
+that question, and that the point of the essay is to offer an
+alternate answer, and to illustrate it by an application.  It's likely
+a good opening structure whenever you're dealing with a big question
+with a standard answer and your point is to explain an alternate
+answer.
   
 # On Classic Style
 

@@ -412,8 +412,23 @@ an acceptable use, in dialogue:
 
 Again, in this example "very" is being used with a specific purpose,
 not as a generic intensifer.  And it works particularly well because
-it makes its xpoint with such economy.
+it makes its point with such economy.
 
+# Structure
+
+**Is scientific publishing about to be disrupted:** The opening four
+paragraphs of this essay: (1) On Kongo Gumi, a 1400 year old company
+that has just gone bankrupt; (2) Why do big companies fails?; (3) The
+standard explanations: stupidity or malevolence; (4) My essay:
+proposes a different (and scarier) explanation, and explains how it
+relates to scientific publishing.
+  
+This structure tells a micro-story that leads one to ask a big, broad
+question.  It then explains the standard answer to that question, and
+how the essay will differ.  It's likely a good opening structure
+whenever you're dealing with a big question with a standard answer and
+your point is to explain an alternate answer.
+  
 # On Classic Style
 
 Notes on classic writing style, as explained in Francis-Noel Thomas

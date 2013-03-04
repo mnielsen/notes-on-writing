@@ -254,7 +254,14 @@ it'ss easy to generate good, novel ideas and questions!
   opening paragraph.  Note that a great opening paragraph can, to a
   considerable extent, compensate for a less-than-great opening
   sentence.  Of course, it's better to have both.
-    
+
+### Opening sentence: "Fahrenheit 451" (Bradbury)
+
+> It was a pleasure to burn.
+
+A beautiful evocation of _feeling_.  It has both internal content --
+the feeling a specific person gets -- as well as a dramatic visual.
+
 ### Opening sentence: "How Buildings Learn" (Brand)
 
 > Year after year, the cultural elite of San Francisco is treated to
@@ -281,6 +288,20 @@ But interesting, in a let's-stay-up-talking-to-3am kind of way, a
 kicker of a conversation starter.  The phrase "on a planet" could
 arguably be omitted.  It might be better to say something like: "An
 intelligent species comes of age when...".
+
+### Opening sentence: "Neuromancer" (Gibson)
+
+> The sky above the port was the color of television, tuned to a dead
+> channel.
+
+Gibson is drawing our attention to a place.  And what a wonderful
+evocation of place it is!  We can see half the scene.  I worry that
+it's a bit too clever: prose drawing attention to itself.  That can
+perhaps only be determined by what follows.
+
+"Dead channel", incidentally, evokes the macabre.  It says subtly that
+"this is not a good place".  So the sentence works both literally, and
+by indirect meaning.
 
 ### Opening sentence: "How to do what you love" (Graham)
 

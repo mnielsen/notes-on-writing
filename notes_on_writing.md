@@ -227,7 +227,7 @@ it's easy to generate good, novel ideas and questions!
   When one does not have that sentence, things become difficult.  It's
   tempting to compromise, and to accept a mediocre opening sentence.
   This is a bad mistake.  The opening sentence is the reader's
-  introduction to your writing.  A mediocre opening is statement that
+  introduction to your writing.  A mediocre opening is a statement that
   you're not going to make good use of their time.  It's also a
   turn-off for you as an author, making you less excited about your
   project.  By contrast, a good opening sentence establishes trust

@@ -204,7 +204,7 @@ times as many titles.
 A cynic might say that all this proves is that our public intellectual
 life is a narrow game.  I think that's wrong (though _The Narrow Game_
 is a good title, hmm...)  Instead, I think the message is optimistic:
-it'ss easy to generate good, novel ideas and questions!
+it's easy to generate good, novel ideas and questions!
 
 **Noun-is-noun title forms:** _Everything bad is good for you_.
   _Biology is technology_. _Everything is illuminated_. _This is not a

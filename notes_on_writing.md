@@ -211,7 +211,7 @@ times as many titles.
 A cynic might say that all this proves is that our public intellectual
 life is a narrow game.  I think that's wrong (though _The Narrow Game_
 is a good title, hmm...)  Instead, I think the message is optimistic:
-it'ss easy to generate good, novel ideas and questions!
+it's easy to generate good, novel ideas and questions!
 
 **Noun-is-noun title forms:** _Everything bad is good for you_.
   _Biology is technology_. _Everything is illuminated_. _This is not a
@@ -234,7 +234,7 @@ it'ss easy to generate good, novel ideas and questions!
   When one does not have that sentence, things become difficult.  It's
   tempting to compromise, and to accept a mediocre opening sentence.
   This is a bad mistake.  The opening sentence is the reader's
-  introduction to your writing.  A mediocre opening is statement that
+  introduction to your writing.  A mediocre opening is a statement that
   you're not going to make good use of their time.  It's also a
   turn-off for you as an author, making you less excited about your
   project.  By contrast, a good opening sentence establishes trust

@@ -484,36 +484,42 @@ style, in which you alternate the personal with the classic.  Feynman
 occasionally uses this style, either to explain his own thinking, or
 to explain the hypothetical thinking of others.
 
-**On technical writing as literature:** Martin Amis has written a
-  beautifully titled book: "The War Against Cliche".  In that book he
-  shows what can be achieved if one avoids the cliche, and instead
-  finds both striking new ways of expressing ideas, and --- a process
-  that is hard to distinguish --- also striking ways of expressing new
-  ideas.
+# The war against the routine in writing
+
+Martin Amis has written a beautifully titled book: "The War Against
+Cliche".  In that book he shows what can be achieved if one avoids the
+cliche, and instead finds both striking new ways of expressing ideas
+and --- a process that is hard to distinguish --- also striking ways
+of expressing new ideas.
   
-Finding such striking expressions is difficult work.  Is there value
-in undertaking that work in technical writing, or should we leave it
-to literary authors?  When should we work hard to find striking
-expressions, and when should we aim mainly for clarity?
+Finding such striking expressions is difficult work.  Should we
+undertake that work in technical writing, or should we leave it to
+literary authors?  To put it another way, when should we work hard to
+find striking expressions, and when should we aim mainly for clarity?
 
 Before answering those questions, there's a related notion that is
 worth exploring.  That's the idea of _cliche in explanation_.  It's
-often easy to reach for the easy explanation of something, to clarity
-as the main goal.  Clarity is important.  But ideally you want to go
-beyond that, to find a really striking and original explanation, an
-explanation that, perhaps, reaches beyond previous discussions and
-goes somewhere new.
+often easy to reach for the easy or standard explanation of something,
+to clarity as the main goal.  This is especially true when there is a
+standard story about some subject or question.
+
+It's true that clarity is important.  But for your writing to matter,
+to actually be saying something new, you want to go beyond clarity.
+You want to find really striking and original explanations,
+explanations that, perhaps, reach beyond previous discussions and go
+somewhere new.
 
 I believe it is worthy to engage in a war against the routine in
 writing. Even when --- especially when --- discussing the most humdrum
 questions I should challenge myself to produce something striking and
-original.  Is there some unusual perspective I can take?  Is there
-some unusual insight that can be used?  As a byproduct, such
-perspectives and insights are especially likely to produce a
-fortuitous turn of phrase.
+original.  I should identify the existence of a standard story (or
+perhaps several standard stories) in part so I can *avoid* that story.
+Is there some unusual perspective I can take?  Is there some unusual
+insight that can be used?  As a byproduct, such perspectives and
+insights are especially likely to produce a fortuitous turn of phrase.
 
 To return to the original question, the goal therefore should not be
 the literary goal of avoiding cliche in favour of striking prose.
 Rather, it should be to find striking new perspectives on the
 underlying questions and phenomena.  Striking prose will merely be a
-fortuious byproduct.
+happy byproduct.

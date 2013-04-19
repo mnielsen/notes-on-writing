@@ -484,29 +484,36 @@ style, in which you alternate the personal with the classic.  Feynman
 occasionally uses this style, either to explain his own thinking, or
 to explain the hypothetical thinking of others.
 
-**On technical writing as literature:** Martin Amis has a beautifully
-  title book: "The War Against Cliche".  In that book he shows what
-  can be achieved if one avoids the cliche, and instead finds both
-  striking new ways of expressing ideas, and --- a process that is
-  hard to separate --- also striking ways of expressing new ideas.
+**On technical writing as literature:** Martin Amis has written a
+  beautifully titled book: "The War Against Cliche".  In that book he
+  shows what can be achieved if one avoids the cliche, and instead
+  finds both striking new ways of expressing ideas, and --- a process
+  that is hard to distinguish --- also striking ways of expressing new
+  ideas.
   
-Finding such striking expressions is hard work.  And I'm uncertain of
-the value of undertaking that work in technical writing.
+Finding such striking expressions is difficult work.  Is there value
+in undertaking that work in technical writing, or should we leave it
+to literary authors?  When should we work hard to find striking
+expressions, and when should we aim mainly for clarity?
 
-But I think there's a related notion that is worth exploring.  That's
-the idea of _cliche in explanation_.  It's often easy to reach for the
-easy explanation of something, to insight on clarity alone as the main
-goal.  Clarity is an important goal.  But ideally you want to go
-beyond that, to find a really striking and original explanation.
+Before answering those questions, there's a related notion that is
+worth exploring.  That's the idea of _cliche in explanation_.  It's
+often easy to reach for the easy explanation of something, to clarity
+as the main goal.  Clarity is important.  But ideally you want to go
+beyond that, to find a really striking and original explanation, an
+explanation that, perhaps, reaches beyond previous discussions and
+goes somewhere new.
 
-We can aspire to a "War against the routine explanation".  Even when
---- especially when --- discussing the most humdrum subjects I should
-challenge myself to find what is striking and original.  Is there some
-unusual perspective I can take?  And, as a byproduct, such
-perspectives are especially likely to produce a fortuitous turn of
-phrase.
+I believe it is worthy to engage in a war against the routine in
+writing. Even when --- especially when --- discussing the most humdrum
+questions I should challenge myself to produce something striking and
+original.  Is there some unusual perspective I can take?  Is there
+some unusual insight that can be used?  As a byproduct, such
+perspectives and insights are especially likely to produce a
+fortuitous turn of phrase.
 
-So, no, the principal goal should not be as Amis suggests to avoid the
-cliche in favour of striking prose.  Rather, it should be to find
-striking new perspectives on the underlying phenomena --- and to use
-that to generate striking prose.
+To return to the original question, the goal therefore should not be
+the literary goal of avoiding cliche in favour of striking prose.
+Rather, it should be to find striking new perspectives on the
+underlying questions and phenomena.  Striking prose will merely be a
+fortuious byproduct.

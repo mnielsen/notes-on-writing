@@ -8,38 +8,39 @@
 
 **It's hard to write the truth:** When I say it's hard to write the
 truth, it sounds as though I'm saying that I lie a lot, or I'm
-accusing other writers of lying.  But that's not what I mean.  If your
+accusing other writers of lying.  That's not my intent.  If your
 writing has novelty, then early drafts will likely be, at best, rough
 approximations to the truth.  Those drafts will contain sentences and
 paragraphs which are the written equivalent of those conversational
 fumbles where we finally burst out with "You know what I mean".
 Unfortunately, when writing it's easy not to notice when we make such
 fumbles, and to settle for writing which is a poor approximation to
-the truth.  The only solution I know to this problem is to revise over
-and over, asking repeatedly of each sentence whether it can be
+the truth.  The only way I know to address this problem is to revise
+over and over, asking repeatedly of each sentence whether it can be
 _sharper_, and if we really, truly, _believe_ the sentence.
 
 **Good writing is good psychology:** Advice on writing is sometimes
 presented in a tough-sounding, apparently objective style.  "Avoid
-adverbs".  "Avoid needless words".  Etc. Justifications for such rules
-are either omitted entirely, or couched in generalities about what
-makes good writing.  But good writing isn't an intrinsic property of
-the text.  It's a quality of the relationship between reader and what
-is written.  And so advice on writing is about how to change that
-relationship.  Good writers build up a _theory_ of that relationship,
-a psychology of reading.  The better a writer's theory of that
-psychology, the better their writing.  Good writing is really an
-exercise in applied psychology.
+adverbs".  "Avoid needless words".  And so on. Justifications for such
+rules are either omitted entirely, or couched in generalities about
+what makes good writing.  But good writing isn't an intrinsic property
+of the text.  It's a quality of the relationship between the reader
+and the text.  And so useful advice on writing is about how to change
+that relationship.  Good writers build up a _theory_ of that
+relationship, a psychology of reading.  The better a writer's
+psychology of reading, the better their writing.  Good writing is
+really an exercise in applied psychology.
 
 **Beware words that you wouldn't use while speaking:** Using such
 words in your writing isn't always a mistake, but it must be done
-consciously, and for good reasons.  Writers often use such words to
-appear authoritative, writing in what they imagine is expert language.
-Unfortunately, lacking practice with that language they're likely to
-use it poorly, unless they are exceptionally careful.  This desire to
-appear authoritative can easily become a self-serving agenda, not an
-agenda in service to the reader. With that said, if you're confident
-you're using the word in the reader's service, go for it!
+consciously, and for good reasons.  I'm often tempted to use such
+words to appear authoritative, writing in what I imagine is expert
+language.  Unfortunately, lacking practice with that language I'm
+likely to use it poorly, unless I'm exceptionally careful.  This
+desire to appear authoritative can easily become a self-serving
+agenda, not an agenda in service to the reader. With that said, if
+you're confident you're using the word in the reader's service, go for
+it!
 
 **One purpose:** A good piece of writing has a single, sharp,
 overriding purpose.  Every part of the writing --- even the
@@ -61,8 +62,8 @@ I'm not sure I really understand why clarity of purpose matters so
 much to good writing.  Yet writing which violates it nearly always
 suffers.  Lois Bujold begins one of her books with a mystery, which
 she resolves partway through the book.  The book then changes to be
-about something else. It's telling that I don't remember either the
-title of the book, or more plot details.
+about something else. It's telling that I don't remember which of her
+books it is, or more plot details.
 
 Perhaps an explanation lies in the nature of our emotional bond to a
 book.  That bond is formed early, and if changes too much, the bond is
@@ -70,8 +71,8 @@ severed.  The author may try to establish a new bond, but
 we-the-reader become confused.  Are we supposed to commit again?  What
 is the book really about?
 
-There are famous examples which evade this rule.  I'm not sure what
-Douglas Adams' books are about, but I enjoy them for the sheer
+There are examples which successfully evade this rule.  I'm not sure
+what Douglas Adams' books are about, but I enjoy them for the sheer
 sentence-by-sentence pleasure.  Perhaps that _is_ what Adams' books
 are about.  I'm also not sure what Robert Pirsig's _Zen and the Art of
 Motorcycle Maintenance_ is about, but it's a terrific book.  Such
@@ -82,14 +83,13 @@ This observation matters because it's often tempting to let your
 purpose expand and become vague.  Writing a piece about gardens?  Hey,
 why not include that important related thought you had about
 rainforests?  Now you have a piece that's sort of about gardens and
-sort of about rainforests, and not really about anything.  There's
-nothing really there for the reader to bond to.  This expansion in
-purpose is done with the best of intentions --- you want to write
-about all the good ideas that you have.  But it breaks the clarity of
-your communication with the reader.  It's a type of _discursive
-disease_.
+sort of about rainforests, and not really about anything.  The reader
+can no longer bond to it.  This expansion in purpose is done with the
+best of intentions --- you want to tell the reader all your good
+ideas.  But it breaks the clarity of your communication with the
+reader.  It's a type of _discursive disease_.
 
-Discursive disease is difficult to combat.  The only surefire solution
+Discursive disease is difficult to avoid.  The only surefire solution
 is to rewrite, culling and editing ruthlessly until you have a single
 purpose.  But a partial solution is to make sure you always _know your
 purpose_.  I'm currently experimenting with writing the purpose of
@@ -98,56 +98,63 @@ then review it each time I sit down to write.
 
 This is not to say that the purpose should be fixed.  If you're
 writing to discover then the purpose will evolve over time, and
-perhaps even change radically.  That's part of why you're writing.
-But your final piece should reflect only the purpose that you
-discovered during the writing.  All else, no matter how good, must be
-removed.  File it somewhere where you can find it again later, for use
-in future writing projects.  When Aaron Sorkin wrote the television
-movie _The American President_ he gathered far more material than he
-could use in the final script.  He put the extra material aside, and
-later it helped him write _The West Wing_.
+perhaps change radically.  That's part of why you're writing.  But
+your final piece should reflect only the purpose that you discovered
+during the writing.  All else, no matter how good, must be removed.
+File it somewhere where you can find it again later, for use in future
+writing projects.  When Aaron Sorkin wrote the television movie _The
+American President_ he gathered far more material than he could use in
+the final script.  He put the extra material aside, and later it
+helped him write his television series _The West Wing_.
 
-A complicating factor is that sometimes you need _need_ to explore
-beyond the boundaries of your current purpose.  You're writing for
-purpose A, but your instinct tells you that you need to explore
-subject B.  Unfortunately, you're not yet sure how subject B fits in.
-If that's the case then you _must_ take time to explore, and to
-understand how, if at all, subject B fits in, and whether you need to
-revise your purpose.  This is emotionally difficult.  It creates
-uncertainty, and you may feel as though your work on subject B is
-wasted effort.  These doubts must be resisted.
+A complicating factor is that sometimes you _need_ to explore beyond
+the boundaries of your current purpose.  You're writing for purpose A,
+but your instinct says that you need to explore subject B.
+Unfortunately, you're not yet sure how subject B fits in.  If that's
+the case then you _must_ take time to explore, and to understand how,
+if at all, subject B fits in, and whether you need to revise your
+purpose.  This is emotionally difficult.  It creates uncertainty, and
+you may feel as though your work on subject B is wasted effort.  These
+doubts must be resisted.
 
-**"What is your book (or essay) about?"** Connected to the last point.
-  You _must_ have a compelling answer to this.  If you don't, then
-  your book or essay almost certainly doesn't have a single overriding
-  purpose.
+**"What is your book (or essay) about?"** You _must_ have a compelling
+  answer to this.  If you don't, then your book or essay almost
+  certainly doesn't have a single overriding purpose.
 
+**Occam's razor for writing:** Occam's razor applies not just to
+  science but also to writing: given two written passages which convey
+  almost the same meaning, the shorter passage is usually better.  The
+  reason is that clearer, more vivid explanations are preferable.  And
+  shortening usually makes writing clearer and more vivid.  At least
+  in part this is a quirk of our brains: it is usually better to say
+  something is "big" than "humungous"; that a day is "cloudy" rather
+  than
+    
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the
   self-reference of having a history of time; the self-reference that
-  it's brief; and finally the fact that the title is a pretty darned
-  literal description of the book.
+  it's brief; and finally the fact that the title is a good literal
+  description of the book.
   
-**The Future of Ideas (Lessig):** I'm not sure whether this is a good
-  title or not.  It's ambitious and provocative, a big-picture title.
-  It almost forces the reader to confront the question: what is the
-  future of ideas?  But it's huge scope also means that it's a vague
-  title.  And, in the end, it's not quite what the book is about.  The
-  book is really about the future of expression, i.e., the future of
-  how ideas and culture are expressed.  This makes the title somewhat
-  elusive, the kind where, after reading the book, you may not recall
-  the title.
+**The Future of Ideas (Lessig):** I'm not sure this is a good title.
+  It's ambitious and provocative, a big-picture title.  It almost
+  forces the reader to confront the question: what is the future of
+  ideas?  But it's huge scope also means that it's vague.  And, in the
+  end, it's not what the book is about.  The book is really about the
+  future of expression, i.e., the future of how ideas and culture are
+  expressed.  This makes the title elusive, the kind which, after
+  reading the book, you may not recall.
 
-**The Society of Mind (Minsky):** What I like about this title is that
-  it really is exactly what the book is about.  After you've read the
-  book you won't have any difficulty recalling the title.  A problem
-  with the title is that it's not really obvious to the prospective
-  reader what it means.  It does, at least, sound pregnant with
-  meaning, and it's also an idea that is relatively easy to explain.
-  It might, perhaps, have been helped by a subtitle: "how the mind
-  arises through many agents", or something in that vein.  (That's not
-  a good subtitle, but something along those lines might have worked.)
+**The Society of Mind (Minsky):** This title really is exactly what
+  the book is about.  After you've read the book you won't have any
+  difficulty recalling the title.  A problem with the title is that
+  it's not obvious to prospective readers what it means.  It does, at
+  least, sound pregnant with meaning, and it's also an idea that is
+  relatively easy to explain.  It might, perhaps, have been helped by
+  a subtitle: "how the mind arises from many simple agents", or
+  something in that vein.  That's not quite the right subtitle, but
+  something along those lines might have worked.
 
 **Juxtaposition:** Many titles juxtapose two words (or concepts) that
   are not usually together.  This is particularly effective when the
@@ -417,10 +424,10 @@ The third sentence is more complex.  Omission is unsatisfactory:
 
 > Jake would like to eat lunch.
 
-Something is lost here, since the intensity in "very much" is _very
-much_ the point of the original sentence.  Unfortunately, "very much"
-remains weak due to its generic nature.  It's better to replace the
-entire construction with something specific:
+Something is lost, since the intensity in "very much" is the point of
+the original sentence.  Unfortunately, "very much" remains weak
+because of its generic nature.  It's better to replace the phrase with
+something specific:
 
 > Jake was ravenous for lunch.
 
@@ -429,7 +436,7 @@ use, in dialogue:
 
 > "Was she angry?"
 >
-> "Very"
+> "Very."
 
 In this example "very" is being used with a specific purpose, not as a
 generic intensifer.  It works well because it makes its point with
@@ -477,4 +484,29 @@ style, in which you alternate the personal with the classic.  Feynman
 occasionally uses this style, either to explain his own thinking, or
 to explain the hypothetical thinking of others.
 
+**On technical writing as literature:** Martin Amis has a beautifully
+  title book: "The War Against Cliche".  In that book he shows what
+  can be achieved if one avoids the cliche, and instead finds both
+  striking new ways of expressing ideas, and --- a process that is
+  hard to separate --- also striking ways of expressing new ideas.
+  
+Finding such striking expressions is hard work.  And I'm uncertain of
+the value of undertaking that work in technical writing.
 
+But I think there's a related notion that is worth exploring.  That's
+the idea of _cliche in explanation_.  It's often easy to reach for the
+easy explanation of something, to insight on clarity alone as the main
+goal.  Clarity is an important goal.  But ideally you want to go
+beyond that, to find a really striking and original explanation.
+
+We can aspire to a "War against the routine explanation".  Even when
+--- especially when --- discussing the most humdrum subjects I should
+challenge myself to find what is striking and original.  Is there some
+unusual perspective I can take?  And, as a byproduct, such
+perspectives are especially likely to produce a fortuitous turn of
+phrase.
+
+So, no, the principal goal should not be as Amis suggests to avoid the
+cliche in favour of striking prose.  Rather, it should be to find
+striking new perspectives on the underlying phenomena --- and to use
+that to generate striking prose.

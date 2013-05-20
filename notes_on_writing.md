@@ -130,6 +130,44 @@ doubts must be resisted.
   something is "big" than "humungous"; that a day is "cloudy" rather
   than
     
+**"Write one true sentence:"** This was Hemingway's method for getting
+  started when he was blocked:
+  
+> Sometimes when I was starting a new story and I could not get it
+> going, I would sit in front of the fire and squeeze the peel of the
+> little oranges into the edge of the flame and watch the sputter of
+> blue that they made. I would stand and look out over the roofs of
+> Paris and think, "Do not worry. You have always written before and
+> you will write now. All you have to do is write one true
+> sentence. Write the truest sentence that you know." So finally I
+> would write one true sentence, and then go on from there. It was
+> easy then because there was always one true sentence that I knew or
+> had seen or had heard someone say. If I started to write
+> elaborately, or like someone introducing or presenting something, I
+> found that I could cut that scrollwork or ornament out and throw it
+> away and start with the first true simple declarative sentence I had
+> written.
+  
+This is not always as easy as Hemingway suggests.  The mind may be
+blank, unstimulated.  One must be *provoked* by some external mental
+stimulus --- preferably either to irritation or to excitement.  Either
+provocation will, eventually, produce a true sentence or three, as you
+engage with whatever is irritating or exciting you.  And so you must
+also cultivate methods for stimulating your mind in this way.
+
+**Stop when you know what comes next:**
+
+Hemingway:
+
+> The best way is always to stop when you are going good and when you
+> know what will happen next. If you do that every day when you are
+> writing a novel you will never be stuck. That is the most valuable
+> thing I can tell you so try to remember it.
+
+This works best when also combined with a word quota.  Meet one's word
+quota for the day, and after that, stop where you know what happens
+next.
+
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the
@@ -525,3 +563,56 @@ the literary goal of avoiding cliche in favour of striking prose.
 Rather, it should be to find new perspectives on the underlying
 questions and phenomena.  Striking prose will merely be a happy
 byproduct.
+
+## Phrases
+
+**F. Scott Fitzgerald (in Gatsby):** "There was dancing now on the
+canvas in the garden; old men pushing young girls backwards in
+*eternal graceless circles* [...]"
+
+In three words, Fitzgerald conveys many things: 
+
+(1) "eternal" refers to the obvious fact that the dance can continue
+ as long as the music holds out, but simultaneously conveys a sense of
+ all dances continuing in this way, for all time, and perhaps even to
+ a sense that there is just one dance, continuing in circles forever.
+ 
+(2) "graceless" is descriptive, but we are no sure whether it is
+cynical, or realistic.  No matter which, it is presumably a parochial
+comment, since not all dancers are graceless.
+
+(3) This is all possible because Fitzgerald starts with a very
+primary, raw observaton about what is going on: people are moving in
+circles.  It's the rawness and simpicity and concreteness of that
+observation that enables the beautiful modifiers.
+
+Let me attempt something similar.  Suppose I wanted to describe the
+passage of cars along my street.  Some simple observations: the cars
+move in lines; they stop and start; they move in different ways at
+different times of the day; they move in opposite directions; they for
+the most part act as barriers to one another.  An interesting kind of
+barrier: a barrier to intention, since sometimes one will clearly wish
+to pass another, but it is difficult to do.  The cars sometimes seem
+sad to me, especially when people are commuting to work.  I can't
+quite say how, but there is somehow a dejected quality I associate to
+the cars' motion.  Candidate phrases:
+
++ "capacious machines moving in opposing lines".  There's something
+wrong with it --- I would never use "capacious machines" --- but it
+still gets at the sense of raw observation.
+
++ "Large machines moving in opposing lines, sometimes halting, but
+moving often enough with speed to please their inhabitants".
+
+Neither attempt has elegance.  I should continue until I suceed.
+
+Advertising billboards: "Beautiful people looking down upon us with
+eternal smiles".  Not bad.  What other quality do those smiles have?
+The obvious cliche is "frozen".  Better is "artificial".  Better still
+is "hired": "Beautiful people looking down upon us with their hired
+smiles" (or perhaps "smiles-for-hire").  As actors, their smile is a
+professional asset.  Another cliche: "appealing" --- that's the
+intent.  Another cliche: "forced".  Better is "slightly manic".  Can I
+do better than "Beautiful people"?  "Two-dimensional people looking
+down upon us with [slightly?] manic smiles" is certainly better thban
+"Beautiful people looking down upon us with frozen smiles".

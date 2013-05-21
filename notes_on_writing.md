@@ -258,6 +258,44 @@ it's easy to generate good, novel ideas and questions!
   suggestive of so much.  While it doesn't produce quite as many hits
   as adjective-noun forms, it's still fun to play mad libs style.
 
+## Chapter titles
+
+**In "Structure and Interpretation of Computer Programs":**
+
++ "Building Abstractions with Procedures"
++ "Building Abstractions with Data"
++ "Modularity, Objects, and State"
++ "Metalinguistic Abstraction"
++ "Computing with Register Machines"
+
+Chapter titles 1, 2 and 5 are verb phrases, while 3 and 4 are noun
+phrases.  I prefer the more active titles, perhaps for the obvious
+reason that they create more of a sense of going someplace!
+
+**In "The Language Instinct":** Here are the two best of the chapter
+  titles:
+
+*"An Instinct to Acquire an Art": I love this title.  It is just very
+slightly false: language is not really an art.  But what would be
+better?  "Craft"? "Habit"?  "Ability"?  None quite works, and I can
+think of nothing else, either.
+
+What I really like about this title is that it actually makes us
+smarter, by succinctly summarizing a complex set of ideas.
+
++ "The Language Mavens": I don't know if the coinage is original, but
+this is a beautiful term for a class of people that we all recognize
+at once.  It also conveys Pinker's point of view --- he has some time
+for these people, but he is also dismissive of some of their values
+and self-righteousness.  "The Language Police" would have ascribed to
+them more power than Pinker wants to acknowledge.  "The Language
+Gurus" wouldn't have been bad, but perhaps overpraises them slightly.
+No, "maven" is almost perfect.
+
+What I like about this title is that it instantly gives us a name for
+a phenomenon, and even an attitude (albeit, uninformed --- attitude
+without knowledge) to take toward that phenomenon.  Beautiful!
+
 ## Opening sentences
 
 **Is the sentence striking enough to make the reader want to read
@@ -616,3 +654,17 @@ intent.  Another cliche: "forced".  Better is "slightly manic".  Can I
 do better than "Beautiful people"?  "Two-dimensional people looking
 down upon us with [slightly?] manic smiles" is certainly better thban
 "Beautiful people looking down upon us with frozen smiles".
+
+Note that in Fitzgerald's example what is happening is that we are
+getting a fresh look at a phenomenon which would otherwise be
+familiar.  There are two ways of looking at this: (1) Purely as
+_technique_, for giving prose life; and (2) As a way of seeing anew,
+and more deeply, something which has intrinsic purpose.  I believe (2)
+should be held primary; to the extent this is a technique, it is one
+that should be used to reveal only that which one believes to be of
+significance, not the breath life into the dull or
+unimportant. Fitzgerald saw the dance in his mind's eye, and was
+convinced that it mattered, and he wanted to convey it truly.  So he
+looked at the dance closely, and described what he saw, as well as he
+could.  They truly were dancing in "eternal graceless circles".
+

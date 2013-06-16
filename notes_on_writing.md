@@ -44,7 +44,9 @@ it!
 
 **One purpose:** A good piece of writing has a single, sharp,
 overriding purpose.  Every part of the writing --- even the
-digressions! --- should serve that purpose.
+digressions! --- should serve that purpose.  Put another way, clarity
+of overall purpose is an absolute requirement in a good piece of
+writing.
 
 A common pattern is to begin a piece with a problem or a mystery or a
 promise.  Resolving the problem or mystery or fulfilling the promise
@@ -194,6 +196,13 @@ next.
   something in that vein.  That's not quite the right subtitle, but
   something along those lines might have worked.
 
+**Trimalchio in West Egg:** F. Scott Fitzgerald's alternate (and
+  sometimes preferred) title for "The Great Gatsby".  Despite being
+  advised against the title by both his editor and his wife,
+  Fitzgerald sometimes preferred "Trimalchio"-themed titles right up
+  to publication.  A reminder that even very good writers can have and
+  hold onto very bad ideas.
+
 **Juxtaposition:** Many titles juxtapose two words (or concepts) that
   are not usually together.  This is particularly effective when the
   juxtaposition is surprising, but in retrospect meaningful.  "The
@@ -275,7 +284,7 @@ reason that they create more of a sense of going someplace!
 **In "The Language Instinct":** Here are the two best of the chapter
   titles:
 
-*"An Instinct to Acquire an Art": I love this title.  It is just very
+*"An Instinct to Acquire an Art"*: I love this title.  It is just very
 slightly false: language is not really an art.  But what would be
 better?  "Craft"? "Habit"?  "Ability"?  None quite works, and I can
 think of nothing else, either.
@@ -283,7 +292,7 @@ think of nothing else, either.
 What I really like about this title is that it actually makes us
 smarter, by succinctly summarizing a complex set of ideas.
 
-+ "The Language Mavens": I don't know if the coinage is original, but
+*"The Language Mavens"*: I don't know if the coinage is original, but
 this is a beautiful term for a class of people that we all recognize
 at once.  It also conveys Pinker's point of view --- he has some time
 for these people, but he is also dismissive of some of their values

@@ -170,6 +170,31 @@ This works best when also combined with a word quota.  Meet one's word
 quota for the day, and after that, stop where you know what happens
 next.
 
+**Finding what's new:** This may be finding a new result, it may be
+digging out a narrative.  It's about what's going on when you're
+having trouble, when a difficulty is presenting itself.  It's about
+patience.  It's about finding new sources of stimuli.  It's about
+trying things which you _know_ won't work, as a way of learning new
+things.
+
+**On prefaces:** (1) Most prefaces are awful.  They drone on, with
+  little idea of what they should accomplish.  (2) An introduction or
+  preface is a literary form in its own right.  (3) A good preface
+  explains what a book is about, who it is for, and what that person
+  can expect to learn.  It omits everything obvious, and only explains
+  what is strikingly different about the book's answers to those
+  questions.  A preface is good very nearly in proportion to the
+  extent that has a striking of view.  (4) It takes patience to write
+  a good preface.  Doing so requires a superb understanding of what
+  your book is trying to achieve, and it may require many attempts to
+  figure that out.  (5) Steven Pinker's preface to "The Language
+  Instinct" is very good.  Zed Shaw's for "Learn Python the Hard Way"
+  is also pretty good.  But for each good example, I've found ten that
+  are bad, or mediocre.  (6) If material for the preface can be
+  delayed until later in the book, it should be. People don't want to
+  be reading *about the book* any more than absolutely necessary, they
+  want to be enjoying the actual subject at hand.
+
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the

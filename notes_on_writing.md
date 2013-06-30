@@ -188,12 +188,23 @@ things.
   a good preface.  Doing so requires a superb understanding of what
   your book is trying to achieve, and it may require many attempts to
   figure that out.  (5) Steven Pinker's preface to "The Language
-  Instinct" is very good.  Zed Shaw's for "Learn Python the Hard Way"
-  is also pretty good.  But for each good example, I've found ten that
-  are bad, or mediocre.  (6) If material for the preface can be
-  delayed until later in the book, it should be. People don't want to
-  be reading *about the book* any more than absolutely necessary, they
-  want to be enjoying the actual subject at hand.
+  Instinct" is very good, as prefaces go.  Zed Shaw's for "Learn
+  Python the Hard Way" is also pretty good.  But for each good
+  example, I've found ten that are bad, or mediocre.  And, frankly,
+  even the best prefaces aren't all that good.  The reason, I think,
+  is people don't want to be reading *about the book* any more than
+  absolutely necessary, they want to be enjoying the actual subject at
+  hand.  For that reason, we have: (6) If material for the preface can
+  be delayed until later in the book, it should be.  (7) A good
+  preface is, for all the reasons just enumerated, *short*.  How
+  short?  In some ways, it'd be good to omit it entirely.  The problem
+  is that people do expect to be able to find out what the book is
+  about, who it's for, and what they can expect to learn.  And so a
+  preface is quite conventional.  In a sense, _the preface is
+  metadata_.  As an author, one shouldn't have the expectation that
+  the preface is amazing (and readers don't, either).  It's about the
+  book, not the subject at hand, and thus is intrinsically less
+  interesting.
 
 ## Titles
 

@@ -202,10 +202,16 @@ things.
   about, who it's for, and what they can expect to learn.  And so a
   preface is quite conventional.  In a sense, _the preface is
   metadata_.  As an author, one shouldn't have the expectation that
-  the preface is amazing (and readers don't, either).  It's about the
-  book, not the subject at hand, and thus is intrinsically less
-  interesting.
-
+  the preface is amazing.  Readers don't have this expectation,
+  either.  It's about the book, not the subject at hand, and thus is
+  intrinsically less interesting.  (8) With that said, the more
+  opinionated and unusual the preface, the better.  (9) Many genres
+  get away without a preface.  Much fiction tells you what it's about
+  in the first or second chapter, setting up some big problem which
+  needs to be solved.  That can also sometimes work in non-fiction.
+  The opening then becomes an introduction: it sets up some big
+  problem to be solved.
+  
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the

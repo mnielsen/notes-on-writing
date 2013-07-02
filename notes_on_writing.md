@@ -210,7 +210,11 @@ things.
   in the first or second chapter, setting up some big problem which
   needs to be solved.  That can also sometimes work in non-fiction.
   The opening then becomes an introduction: it sets up some big
-  problem to be solved.
+  problem to be solved, with only a few minor prefatory comments.  _A
+  Brief History of Nearly Everything_ uses this structure extremely
+  effectively.  When one can get away with it --- when the problem
+  addressed can be made approachable --- I think this is preferable to
+  writing a preface.
   
 ## Titles
 

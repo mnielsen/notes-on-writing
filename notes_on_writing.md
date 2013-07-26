@@ -215,7 +215,15 @@ things.
   effectively.  When one can get away with it --- when the problem
   addressed can be made approachable --- I think this is preferable to
   writing a preface.
-  
+
+**On note-taking:** Something I wish I'd understood earlier is how
+  important it is to get good at note-taking.  It is not trivial to do
+  well.  Rather, it is something that one can get better and better
+  at.  The payoff of improving is that it makes writing far easier.
+  The better your notes, the easier the writing will be. There are
+  several elements to it: (1) Primary note-taking; (2) Queueing; (3)
+  Refactoring and organization.  You need to get good at all.
+    
 ## Titles
 
 **A Brief History of Time (Hawking):** Amusing, in multiple ways: the

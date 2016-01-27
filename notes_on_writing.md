@@ -275,7 +275,7 @@ the quirky approach.  *Complexity* is an example that follows (1).
 (3) Idea books, i.e., books which explore a new concept or propose a
 theory.  Here, the title ideally names the central new concept or
 theory.  *The Selfish Gene*.  *The Ingenuity Gap*.  *Everything is
-Miscellaneous*.  *One the Origin of Species by Means of Natural
+Miscellaneous*.  *On the Origin of Species by Means of Natural
 Selection*.  *Biology is Technology*.  Failing that, the title
 describes the problem to be addressed: *The Trouble With Physics*.
 *Reinventing Discovery*.
@@ -698,7 +698,7 @@ sad to me, especially when people are commuting to work.  I can't
 quite say how, but there is somehow a dejected quality I associate to
 the cars' motion.  Candidate phrases:
 
-+ "capacious machines moving in opposing lines".  There's something
++ "Capacious machines moving in opposing lines".  There's something
 wrong with it --- I would never use "capacious machines" --- but it
 still gets at the sense of raw observation.
 
@@ -731,3 +731,4 @@ convinced that it mattered, and he wanted to convey it truly.  So he
 looked at the dance closely, and described what he saw, as well as he
 could.  They truly were dancing in "eternal graceless circles".
 
+(End)

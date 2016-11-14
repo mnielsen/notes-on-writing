@@ -705,7 +705,7 @@ still gets at the sense of raw observation.
 + "Large machines moving in opposing lines, sometimes halting, but
 moving often enough with speed to please their inhabitants".
 
-Neither attempt has elegance.  I should continue until I suceed.
+Neither attempt has elegance.  I should continue until I succeed.
 
 Advertising billboards: "Beautiful people looking down upon us with
 eternal smiles".  Not bad.  What other quality do those smiles have?

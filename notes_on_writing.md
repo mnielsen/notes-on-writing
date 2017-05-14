@@ -33,7 +33,7 @@ really an exercise in applied psychology.
 
 **Beware words that you wouldn't use while speaking:** Using such
 words in your writing isn't always a mistake, but it must be done
-consciously, and for good reasons.  I'm often tempted to use such
+consciously, and for good reasons.  I often tempted to use such
 words to appear authoritative, writing in what I imagine is expert
 language.  Unfortunately, lacking practice with that language I'm
 likely to use it poorly, unless I'm exceptionally careful.  This

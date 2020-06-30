@@ -130,7 +130,7 @@ doubts must be resisted.
   shortening usually makes writing clearer and more vivid.  At least
   in part this is a quirk of our brains: it is usually better to say
   something is "big" than "humungous"; that a day is "cloudy" rather
-  than "overcast"
+  than "overcast".
     
 **"Write one true sentence:"** This was Hemingway's method for getting
   started when he was blocked:

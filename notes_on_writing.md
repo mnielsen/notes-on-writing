@@ -2,7 +2,10 @@
 
 **Working notes, by Michael Nielsen:** These are _rough_ notes.  I'm
  writing them to help me improve my polished writing, not as models of
- prose in themselves.
+ prose in themselves. It would take me perhaps a hundred hours or so to 
+ turn them into something even vaguely adequate, which is time I don't
+ presently have.  Also: note that I will ignore pull requests or 
+ issue reports (same reason). 
 
 ## Observations
 
